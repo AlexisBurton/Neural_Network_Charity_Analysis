@@ -13,7 +13,7 @@ Encoding:
 <img src= "https://raw.githubusercontent.com/AlexisBurton/Src-images/master/19/Encoding.png">
 
 ### Compiling, Training & Evaluating the Model
-After preparing the data, it was time to define, compile and train the model, creating checkpoints to save the model weights every 5 epochs.
+After preparing the data, it was time to define, compile and train the model, creating checkpoints to save the model weights every 5 epochs. Given that there were about 40 feature columns, I chose 80 neurons for the first layer, or about twice the amount of features.
 <img src= "https://raw.githubusercontent.com/AlexisBurton/Src-images/master/19/Define.png">
 <img src= "https://raw.githubusercontent.com/AlexisBurton/Src-images/master/19/Train.png">
 
